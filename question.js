@@ -97,7 +97,7 @@ const quiz = [
     {
         q:'What are the three Major International Economic Organizations? Please Choose down below.',
         option:['World Bank, Internal Monetary Fund, World Trade Organizations','INDUSTRIAL, FINANCIAL, COMPETITION, CULTURAL','NONE OF THE ABOVE'],
-        answer:4
+        answer:0
     },
     {
         q:'The development of overseas markets and manufacturing plants in autos, four wheelers and two wheelers is a classical?',
@@ -137,7 +137,7 @@ const quiz = [
     {
         q:'The phase of innovation in a specific field offers ascend to import or fare of items or administrations from or to the nation. European nations like Britain and Germany sent out their synthetic, electrical, mechanical plants in 60s and fares cutting edge products to immature nations?',
         option:['GENERATION ISSUES','ADVANCES','POLITICAL','FINANCIAL'],
-        answer:2
+        answer:1
     },
     {
         q:'Who is the american sociologst that described hign-income nations as the core of the world economy?',
